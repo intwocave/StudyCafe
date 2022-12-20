@@ -1,0 +1,7 @@
+package ch08.sec08;
+
+public class MultipleInterfaceImplExample {
+	public static void main(String[] args) {
+		
+	}
+}

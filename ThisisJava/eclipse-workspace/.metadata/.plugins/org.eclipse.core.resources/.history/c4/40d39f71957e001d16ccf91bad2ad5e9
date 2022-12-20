@@ -1,0 +1,5 @@
+package ch07.sec08;
+
+public class KumhoTire extends Tire {
+
+}

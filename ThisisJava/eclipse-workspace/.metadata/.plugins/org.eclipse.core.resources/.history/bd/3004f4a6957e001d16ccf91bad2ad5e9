@@ -1,0 +1,9 @@
+package ch07.sec08;
+
+public class Car {
+	private Tire tire;
+	
+	public setTire(Tire tire) {
+		this.tire = tire;
+	}
+}

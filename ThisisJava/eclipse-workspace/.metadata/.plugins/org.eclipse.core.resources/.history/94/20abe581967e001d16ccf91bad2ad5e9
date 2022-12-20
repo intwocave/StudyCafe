@@ -1,0 +1,16 @@
+package ch07.sec08;
+
+public class CarExample {
+	public static void main(String[] args) {
+		Car myCar = new Car();
+		
+		System.out.println("myCar의 현재 Tire: " + myCar.getTire());
+		
+		KumhoTire kt = new KumhoTire();
+		myCar.setTire(kt);
+		
+		System.out.println("myCar의 현재 Tire: " + myCar.getTire());
+		
+		myCar.run();
+	}
+}

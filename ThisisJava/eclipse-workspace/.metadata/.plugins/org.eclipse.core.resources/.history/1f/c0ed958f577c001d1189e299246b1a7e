@@ -1,0 +1,9 @@
+package ch07.sec02;
+
+public class SmartPhoneExample {
+	static void main(String[] args) { 
+		SmartPhone myPhone = new SmartPhone("Galaxy S20", "Orion White");
+		
+		System.out.println(myPhone.color);
+	}
+}

@@ -1,0 +1,7 @@
+package ch07.sec08;
+
+public class CarExample {
+	public static void main() {
+		
+	}
+}

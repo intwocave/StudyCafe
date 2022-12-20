@@ -1,0 +1,7 @@
+package ch07.sec02;
+
+public class SmartPhoneExample {
+	SmartPhone myPhone = new SmartPhone("Galaxy S20", "Orion White");
+	
+	
+}

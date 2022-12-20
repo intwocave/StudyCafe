@@ -1,0 +1,7 @@
+package ch08.sec02;
+
+public class RemoteControlExample {
+	RemoteControl rc = new Television();
+	
+	rc.
+}
