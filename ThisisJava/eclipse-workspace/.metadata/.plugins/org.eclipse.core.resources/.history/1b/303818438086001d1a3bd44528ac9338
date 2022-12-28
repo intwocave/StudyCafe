@@ -1,0 +1,13 @@
+package ch09.sec07.exam02;
+
+public class Home {
+	private Remocon rc = new Remocon() {
+		public void turnOn() {
+			System.out.println("TV를 켤게요.");
+		}
+		
+		public void turnOff() {
+			System.out.println("TV를 끌게요.");
+		}
+	}
+}

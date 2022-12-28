@@ -1,7 +1,0 @@
-package ch08.sec12;
-
-public class Taxi {
-	void run() {
-		System.out.println("Bus Go Go!!");
-	}
-}

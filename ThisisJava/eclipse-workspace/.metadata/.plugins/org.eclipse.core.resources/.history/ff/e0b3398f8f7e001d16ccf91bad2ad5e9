@@ -1,7 +1,0 @@
-package ch07.sec05;
-
-public final class Final {
-	final void sayHello() {
-		System.out.println("Hello!");
-	}
-}

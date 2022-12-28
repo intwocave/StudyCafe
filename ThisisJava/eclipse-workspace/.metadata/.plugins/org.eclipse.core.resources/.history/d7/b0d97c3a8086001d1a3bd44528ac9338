@@ -1,0 +1,23 @@
+package ch09.sec07.exam02;
+
+public class HomeExample {
+	public static void main(String[] args) {
+		Remocon rc1 = new Home();
+		rc1.turnOn();
+		rc1.turnOff();
+		rc1.turnOnandOff();
+		
+		Remocon rc2 = new Remocon() {
+			public void turnOn() {
+				System.out.println("익명 구현 객체 TV를 켤게요.");
+			}
+			
+			public void turnOff() {
+				System.out.println("익명 구현 객체 TV를 끌게요.");
+			}
+		};
+		rc2.turnOn();
+		rc2.turnOff();
+		rc2.turnOnandOff();
+	}
+}

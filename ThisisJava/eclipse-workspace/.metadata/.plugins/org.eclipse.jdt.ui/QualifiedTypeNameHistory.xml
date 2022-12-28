@@ -11,4 +11,7 @@
     <fullyQualifiedTypeName name="ch08.sec08.SmartTelevision"/>
     <fullyQualifiedTypeName name="ch08.sec11.exam02.Vehicle"/>
     <fullyQualifiedTypeName name="ch09.sec02.exam01.A.B"/>
+    <fullyQualifiedTypeName name="ButtonOk"/>
+    <fullyQualifiedTypeName name="ch09.sec06.exam03.Button.ClickListener"/>
+    <fullyQualifiedTypeName name="ButtonCancel"/>
 </qualifiedTypeNameHistroy>

@@ -1,9 +1,0 @@
-package ch07.sec08;
-
-public class CarExample {
-	public static void main() {
-		Car myCar = new Car();
-		
-		System.out.println("myCar의 현재 Tire: " + myCar.getTire());
-	}
-}
