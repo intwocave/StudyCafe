@@ -71,6 +71,8 @@
 		<item key="JarManifestWizardPage.MANIFEST_LOCATION" value=""/>
 		<item key="JarManifestWizardPage.SEAL_JAR" value="false"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="my_module_a/dist/my_module_a.jar"/>
+			<item value="my_module_b/dist/my_module_b.jar"/>
 			<item value="my_lib/dist/StudyCafe.jar"/>
 		</list>
 	</section>

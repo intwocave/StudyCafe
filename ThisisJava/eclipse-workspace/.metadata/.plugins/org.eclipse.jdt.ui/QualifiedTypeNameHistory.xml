@@ -14,5 +14,8 @@
     <fullyQualifiedTypeName name="ButtonOk"/>
     <fullyQualifiedTypeName name="ch09.sec06.exam03.Button.ClickListener"/>
     <fullyQualifiedTypeName name="ButtonCancel"/>
+    <fullyQualifiedTypeName name="pack3.C"/>
     <fullyQualifiedTypeName name="pack1.A"/>
+    <fullyQualifiedTypeName name="pack2.B"/>
+    <fullyQualifiedTypeName name="ch11.sec06.InefficientMoney"/>
 </qualifiedTypeNameHistroy>
