@@ -18,4 +18,6 @@
     <fullyQualifiedTypeName name="pack1.A"/>
     <fullyQualifiedTypeName name="pack2.B"/>
     <fullyQualifiedTypeName name="ch11.sec06.InefficientMoney"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.TimeZone"/>
 </qualifiedTypeNameHistroy>
