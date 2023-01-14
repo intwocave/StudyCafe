@@ -20,4 +20,13 @@
     <fullyQualifiedTypeName name="ch11.sec06.InefficientMoney"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.TimeZone"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="ch12.sec12.PrintAnnotation"/>
+    <fullyQualifiedTypeName name="ch12.sec12.Service"/>
+    <fullyQualifiedTypeName name="ch13.sec02.exam02.CarAgency"/>
 </qualifiedTypeNameHistroy>
