@@ -31,4 +31,5 @@
     <fullyQualifiedTypeName name="ch13.sec02.exam02.CarAgency"/>
     <fullyQualifiedTypeName name="java.awt.Toolkit"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="ch14.sec06.exam02.ThreadA"/>
 </qualifiedTypeNameHistroy>

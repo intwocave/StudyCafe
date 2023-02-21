@@ -5,6 +5,7 @@ public class JoinExample {
 		SumThread sumThread = new SumThread();
 		System.out.println(sumThread.getSum());
 		sumThread.start();
+		
 		try {
 			sumThread.join();
 		} catch(InterruptedException e) {}
