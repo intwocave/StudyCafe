@@ -1,7 +1,0 @@
-package ch06.Question.Banking;
-
-public class BankApplication {
-	default static void main(String[] args) {
-		Account[100] Account;
-	}
-}
