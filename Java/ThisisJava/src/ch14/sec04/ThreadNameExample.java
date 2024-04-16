@@ -1,4 +1,4 @@
-package ch14;
+package ch14.sec04;
 
 public class ThreadNameExample {
     public static void main(String[] args) {
