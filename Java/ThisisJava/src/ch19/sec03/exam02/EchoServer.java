@@ -19,6 +19,7 @@ public class EchoServer {
         System.out.println("-------------------------------------------");
 
         // TCP 서버 시작
+        startServer();
 
         Scanner scanner = new Scanner(System.in);
         while(true) {
@@ -29,6 +30,7 @@ public class EchoServer {
         }
 
         // TCP 서버 종료
+        stopServer();
     }
 
     public static void startServer() {
@@ -49,10 +51,10 @@ public class EchoServer {
                         System.out.println("[서버] " + inetSocketAddress.getHostName() + "의 연결 요청을 수락함");
 
                         DataInputStream dis = new DataInputStream(socket.getInputStream());
-                        // String str = dis.readUTF();
+                        String str = dis.readUTF();
                         DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
-                        dos.writeUTF(dis.readUTF());
-                        System.out.println("[서버] echo message: " + dis.readUTF());
+                        dos.writeUTF(str);
+                        System.out.println("[서버] echo message: " + str);
 
                         dos.flush();
                         dos.close();
